@@ -5,9 +5,9 @@ public class TestTest {
 		// TODO Auto-generated method stub
 		System.out.println("sss");
 		
-		System.out.println("íì•Œ ì™„ë£Œ");
-		System.out.println("ëœê±´ê°€ìš”?? ì´ì œ ì œë§˜ëŒ€ë¡œ ì¨ë„ ë˜ì£ ???");//ë„¹!ê°ì‚¬í•©ë‹ˆë‹¤!!!!
+		System.out.println("ÀÎÄÚµù º¯°æ");
 		System.out.println("gja;ldjgasdjfasdjfjasd;jfasjka;j");
+		
 	}
-			
-}
+}		
+//´Ù½Ã Àç¾÷ÇØº¼°Ô ¤¡¤§
