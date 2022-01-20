@@ -8,5 +8,6 @@ public class TestTest {
 		System.out.println("인코딩 변경");
 		System.out.println("gja;ldjgasdjfasdjfjasd;jfasjka;j");
 		//asd
+		System.out.println("깨지나요?");
 	}
 }		
