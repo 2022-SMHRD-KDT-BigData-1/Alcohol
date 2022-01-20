@@ -17,7 +17,7 @@ public class test extends HttpServlet {
 		response.setContentType("text/html; charset = utf-8");
 		
 		PrintWriter out = response.getWriter();
-				out.print("<p>시험용</p>");
+				out.print("<p>시험용123123</p>");
 	}
 
 }
