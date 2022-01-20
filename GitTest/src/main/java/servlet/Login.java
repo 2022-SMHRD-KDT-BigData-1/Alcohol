@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class memberDAO
  */
 @WebServlet("/memberDAO")
-public class memberDAO extends HttpServlet {
+public class Login extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	/**
