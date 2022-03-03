@@ -53,7 +53,7 @@
 
 ## 대표 이미지
 ![메인](https://user-images.githubusercontent.com/95062692/156512538-a99528ec-2689-4f82-ab58-c6570002e483.png)
-
+![찜](https://user-images.githubusercontent.com/95062692/156512810-ef89f136-03ed-465c-9c44-ef106d7e10f1.png)
 
 ## 페이지 링크
 
