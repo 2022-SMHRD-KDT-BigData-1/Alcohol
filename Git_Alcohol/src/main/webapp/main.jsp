@@ -70,7 +70,7 @@
     
       <div class="masthead-content">
         <div class="container px-5">
-          <h1 class="masthead-heading mb-0">A'DIC에 오신걸 환영합니다.</h1>
+          <h1 class="masthead-heading mb-0">A'DIC에 오신걸 환영합니다.</h1> 
           <h2 class="masthead-subheading mb-0">Welcome Here</h2>
           <a class="btn btn-primary btn-xl rounded-pill mt-5" href="Join.jsp">
             회원가입</a>
