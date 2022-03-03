@@ -15,6 +15,8 @@
 ## 크롤링 순서도
 - 자료 크롤링 -> 자료 번역 -> 자료 전처리 -> DB구축
 
+![image](https://user-images.githubusercontent.com/95062692/156515284-88aa398e-8d04-4082-aee3-b126ac013906.png)
+
 ## 주요기능
 - 회원관리 기능( 회원가입, 로그인, 마이페이지 )
 - 술 정보 관련 기능 ( 술정보, 술 검색 )
@@ -55,6 +57,7 @@
 ![메인](https://user-images.githubusercontent.com/95062692/156512538-a99528ec-2689-4f82-ab58-c6570002e483.png)
 ![찜](https://user-images.githubusercontent.com/95062692/156512810-ef89f136-03ed-465c-9c44-ef106d7e10f1.png)
 ![월드컵](https://user-images.githubusercontent.com/95062692/156512968-634eecf6-f17c-42a2-a81c-8d7828cf2f0b.png)
+
 ## 페이지 링크
 
 
